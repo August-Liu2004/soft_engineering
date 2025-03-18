@@ -4,7 +4,7 @@ def main():
     """
     print("He")
     print("hello")
-    print("hello ntk!")
+    print("hello")
     print("add hello")
 
 
