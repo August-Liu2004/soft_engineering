@@ -2,7 +2,7 @@ def main():
     """
     Main function to print a greeting message.
     """
-    print("Hello, World!")
+    print("Hello")
     print("hello刘昀臻")
     print("hello ntk!")
 
